@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Bank>Swedpank</Bank>
+  <Address>Liivalaija 8</Address>
+  <IBAN>EE10475975743585</IBAN>
+  <name>Tauri Reinsoo</name>
+  <DOB>01.01.1969</DOB>
+  <ID>50304080210</ID>
+  <Phone>56933429</Phone>
+  <E-mail>Tauri.rein@gmail.com</E-mail>
+  <Security_Word>Kass</Security_Word>
+  <Main_account>6000.00$</Main_account>
+  <Savings_account>50.00$</Savings_account>
+  <Pension_account>10000.00$</Pension_account>
+</root>

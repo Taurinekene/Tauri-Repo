@@ -1,0 +1,16 @@
+[
+{
+  "Bank": "Swedpank",
+  "Address": "Liivalaija 8",
+  "IBAN": "EE10475975743585",
+  "name": "Tauri Reinsoo",
+  "DOB": "01.01.1969",
+  "ID": "50304080210",
+  "Phone": "56933429",
+  "E-mail": "Tauri.rein@gmail.com",
+  "Security Word": "Kass", 
+  "Main account": "6000.00$",
+  "Savings account": "50.00$",
+  "Pension account": "10000.00$"
+  }
+]
